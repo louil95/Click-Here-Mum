@@ -1,2 +1,2 @@
 
-print('this is 1 lit boi')
+print('this is 2 lit boi')
